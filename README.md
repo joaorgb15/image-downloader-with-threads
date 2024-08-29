@@ -17,5 +17,7 @@ Certifique-se de ter o Python e a biblioteca `requests` instalada:
    pip install requests
 
 Nome dos integrantes:
+
 João Ricardo - 1134269
+
 Lorenzo Pasa - 1134869
